@@ -32,8 +32,11 @@ MySQL (MySQL Workbench), Power BI
   ETF/Index, Hybrid, and Other
 
 ## Key Findings
-[Fill in: which 1-2 insights stood out most to you from building this]
-
+-Top-Heavy Scheme Concentration: The top two schemes (Edelweiss Balanced Advantage at ₹9,963 Cr and Nippon India Arbitrage at ₹9,903 Cr)   each manage roughly 10x the assets of the third-place scheme (₹996 Cr), highlighting a steep concentration of capital in a few 
+ established hybrid and arbitrage products.
+-Dominance of Core Asset Classes: Debt and Equity categories command the overwhelming majority of total market AUM, demonstrating that    
+ institutional and retail capital remains heavily anchored in traditional fixed-income stability and active equity growth rather than  
+ passive ETF/Index vehicles.
 ## Files in This Repo
 - `highest_aum_by_amc.sql` — Total AUM by fund house
 - `top_10_scheme.sql` — Top 10 schemes by AUM
