@@ -24,7 +24,7 @@ MySQL (MySQL Workbench), Power BI
   during import
 
 ## Dashboard
-![Dashboard Overview]("https://github.com/user-attachments/assets/b3c0709e-88c8-491f-8ad3-9c4da145453a")
+![Dashboard Overview](https://github.com/user-attachments/assets/b3c0709e-88c8-491f-8ad3-9c4da145453a)
 - **AUM by Fund House:** UTI Asset Management leads with ₹3,94,764 Cr
 - **Top Schemes Ranked:** Edelweiss Balanced and Nippon India Arbitrage lead individual 
   scheme AUM
